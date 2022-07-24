@@ -8,6 +8,8 @@ Requirements
 
 Requirements for the use of ansible core version >= 2.13.1
 
+Install role only on system with yum manager packages.
+
 
 Role Variables
 --------------
