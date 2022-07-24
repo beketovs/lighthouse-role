@@ -13,6 +13,7 @@ Role Variables
 --------------
 
 nginx_user_name: root 
+
 lighthouse_location_dir: /home/beketov/lighthouse
 
 Dependencies
